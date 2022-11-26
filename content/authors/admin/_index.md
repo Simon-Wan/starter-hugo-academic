@@ -77,8 +77,12 @@ email: ''
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fourth-year undergraduate student at [YaoClass](https://iiis.tsinghua.edu.cn/), Tsinghua University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My  primary  research  interest  is  to  build  AI  systems  that  can  better  understand  human 
+intentions and take actions in the physical world for humans and for themselves. I hope to 
+improve  current  machine  intelligence  by  drawing  inspiration  from  findings  in  cognitive 
+science,  especially  on  how  humans  represent  information  in  their  minds  and  how  they 
+deliver internal ideas.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/YanmingWan_CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
