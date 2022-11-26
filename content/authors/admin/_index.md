@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Yanming Wan 宛彦明
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Yanming
+last_name: Wan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: IIIS, Tsinghua University
+    url: https://iiis.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human-AI interaction, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
@@ -46,22 +46,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: 'mailto:sz.wanym@gmail.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=V9ukKTsAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Simon-Wan
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
@@ -77,7 +68,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a fourth-year undergraduate student at [YaoClass](https://iiis.tsinghua.edu.cn/), Tsinghua University.
+I am a fourth-year undergraduate student in [YaoClass](https://iiis.tsinghua.edu.cn/), Tsinghua University.
 
 My  primary  research  interest  is  to  build  AI  systems  that  can  better  understand  human 
 intentions and take actions in the physical world for humans and for themselves. I hope to 
