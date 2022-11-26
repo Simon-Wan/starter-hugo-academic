@@ -1,4 +1,5 @@
 ---
+active: false
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: collection
@@ -8,8 +9,6 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 60
-
-active: false
 
 title: Recent Posts
 subtitle:
