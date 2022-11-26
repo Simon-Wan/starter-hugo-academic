@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Yanming Wan 宛彦明
+title: Yanming Wan 
+宛彦明
 
 # Full name (for SEO)
 first_name: Yanming
@@ -71,8 +72,9 @@ highlight_name: true
 I am a fourth-year undergraduate student in [YaoClass](https://iiis.tsinghua.edu.cn/), Tsinghua University.
 
 My  primary  research  interest  is  to  build  AI  systems  that  can  better  understand  human 
-intentions and take actions in the physical world for humans and for themselves. I hope to 
-improve  current  machine  intelligence  by  drawing  inspiration  from  findings  in  cognitive 
+intentions and take actions in the physical world for humans and for themselves. 
+
+I hope to improve  current  machine  intelligence  by  drawing  inspiration  from  findings  in  cognitive 
 science,  especially  on  how  humans  represent  information  in  their  minds  and  how  they 
 deliver internal ideas.
 
