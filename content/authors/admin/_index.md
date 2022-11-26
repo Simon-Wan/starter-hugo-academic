@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Yanming Wan 
-宛彦明
+title: Yanming Wan
+
 
 # Full name (for SEO)
 first_name: Yanming
@@ -11,7 +11,7 @@ last_name: Wan
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: 宛彦明
 
 # Organizations/Affiliations to show in About widget
 organizations:
