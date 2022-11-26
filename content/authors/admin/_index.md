@@ -19,7 +19,7 @@ organizations:
     url: https://iiis.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include human-AI interaction, mobile computing and programmable matter.
+bio: My research interest is to build AI systems that can better understand human intentions and take actions in the physical world for humans and for themselves.
 
 # Interests to show in About widget
 # interests:

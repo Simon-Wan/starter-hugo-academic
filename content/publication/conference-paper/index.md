@@ -45,7 +45,6 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_website: 'http://handmethat.csail.mit.edu'
 url_pdf: 'https://openreview.net/pdf?id=nUTemM6v9sv'
 url_code: 'https://github.com/Simon-Wan/HandMeThat-Release'
 url_dataset: ''
@@ -74,6 +73,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
+Please refer to our website <http://handmethat.csail.mit.edu> for more details.
 
