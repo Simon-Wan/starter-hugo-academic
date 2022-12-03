@@ -1,14 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: HandMeThat
+summary: Human-Robot Communication in Physical and Social Environments
 tags:
-- Demo
-date: "2016-04-27T00:00:00Z"
+- Embodied Language Understanding
+date: "2022-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: http://handmethat.csail.mit.edu
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Poster for HandMeThat submission
   focal_point: Smart
 ---
