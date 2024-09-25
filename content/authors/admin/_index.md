@@ -15,8 +15,8 @@ role: 宛彦明
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: IIIS, Tsinghua University
-    url: https://iiis.tsinghua.edu.cn/
+  - name: Paul G. Allen School of Computer Science & Engineering, University of Washington
+    url: https://www.cs.washington.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is to build AI systems that can better understand human intentions and take actions in the physical world for humans and for themselves.
@@ -69,7 +69,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a fourth-year undergraduate student in [YaoClass](https://iiis.tsinghua.edu.cn/), Tsinghua University.
+I am a second-year PhD student at the University of Washington advised by [Natasha Jaques](https://natashajaques.ai/).
+
+Before UW, I received my bachelor degree from [YaoClass](https://iiis.tsinghua.edu.cn/), Tsinghua University.
 
 My  primary  research  interest  is  to  build  AI  systems  that  can  better  understand  human 
 intentions and take actions in the physical world for humans and for themselves. 
